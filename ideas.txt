@@ -1,0 +1,10 @@
+inventory management - expiry tracking, shopping list generator
+
+caslculator with custom buttons
+
+satellite imagery processing to track road qualuty, degradation and longetivity, 
+making historical imagery searchable like google maps
+
+passing keyboard commands remotely or vi bluetooth, ir, etc
+
+rfid tape
