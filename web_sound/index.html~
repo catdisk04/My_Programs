@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Hearing test - v1</h1>
+
+<script src="new.js">
+</script>
+<p>Listen to these two example sounds and then click start to begin the test.\n You will have to identify these sounds in the test. You will be timed once you start the test. Once you are finished, click the finish button.</p>
+<p> 2000 Hz: </p>
+<audio controls src="audiocheck.net_sin_2000Hz_-10dBFS_3s.wav"></audio>
+<p> 1000 Hz: </p>
+<audio controls src="audiocheck.net_sin_1000Hz_-10dBFS_3s.wav"></audio>
+<br>
+<button onclick="initChoices();">Start</button>
+<br>
+<div id="list_div"></div>
+<div id="end_div"></div>
+
+
+
+</body>
+</html>
