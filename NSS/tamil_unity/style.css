@@ -1,0 +1,45 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+}
+
+button{
+  display: block;
+  margin-left: auto;
+  margin-right:10%;
+  padding:10px;
+}
+
+li{
+padding:10px;
+}
+
+footer{
+left: 45%;
+margin:1%;
+position: absolute;
+bottom: 0;
+}
+
+#text_page2{
+text-align:center;
+line-height:1.5;
+margin:10%;
+}
+
+#quote{
+text-align:center;
+margin:10%;
+}
+
+#links{
+margin:20px;
+display:flex;
+flex-direction: column;
+width:100%;
+height:100%;
+align-items: center;
+}
